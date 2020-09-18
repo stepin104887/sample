@@ -5,5 +5,3 @@
 ![CI](https://github.com/stepin104887/sample/workflows/CI/badge.svg)
 
 ![CI](https://github.com/stepin104887/sample/workflows/CI/badge.svg)
-
-![CI](https://github.com/stepin104887/sample/workflows/CI/badge.svg)
